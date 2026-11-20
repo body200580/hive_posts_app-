@@ -1,0 +1,11 @@
+{
+    "name": "posts_app",
+    "short_name": "posts_app",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#0F172A",
+    "theme_color": "#0F172A",
+    "description": "Offline Posts App with Hive Local NoSQL Storage",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false
+}
